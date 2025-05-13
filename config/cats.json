@@ -1,0 +1,18 @@
+{
+  "cats": [
+    {
+      "level": 1,
+      "name": "Мурзик",
+      "rarity": "обычные",
+      "max_hp": 100,
+      "image": "common_cat.png"
+    },
+    {
+      "level": 2,
+      "name": "Барсик",
+      "rarity": "редкие",
+      "max_hp": 120,
+      "image": "rare_cat.png"
+    }
+  ]
+}
